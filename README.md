@@ -3,14 +3,10 @@ Numerology app.
 # Live demo here: [DEMO](https://bkasperski.pl/numerology)
 
 ## Material UI for React
-### Components and their props:
-- ThemeProvider
-- Icon
-- InputLabel
-- Input
-- FormHelperText 
-- FormControl
-- Handlers
-- IconButton
+### Components:
+- Button
+- Grow
+- ValidatorForm
+- TextValidator
 
 Hope you like it! Thanks!
