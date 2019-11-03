@@ -1,0 +1,58 @@
+#root {
+  text-align: center;
+  margin-top: 5%;
+  display: block;
+
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -user-select: none;
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+  font-kerning: none;
+}
+
+hr {
+  margin-bottom: 30px;
+  border: 0.5px solid rgb(211, 211, 211)
+}
+
+.showResult {
+  margin-top: 25px;
+}
+
+.result {
+  width: 80%;
+  margin: auto;
+}
+
+.apka {
+  display: inline-grid;
+}
+
+button, form, input, .MuiFormControl-marginDense{
+width: 300px;
+margin: auto;
+}
+
+.MuiFormControl-marginDense {
+  margin-bottom: 20px !important;
+}
+
+h1, h2 {
+  text-align: center !important;
+  color: rgba(0, 0, 0, 0.87);
+  text-transform: uppercase;
+}
+
+p {
+  font-style: italic;
+  color: #999;
+  overflow-wrap: break-word;
+}
+
+.bigger {
+  font-size: 20px;
+}
