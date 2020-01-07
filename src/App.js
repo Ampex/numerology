@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import { Button, Grow } from '@material-ui/core'
+import { Button, Grow, Link } from '@material-ui/core'
 import { ValidatorForm, TextValidator } from 'react-material-ui-form-validator'
 import { ThemeProvider, createMuiTheme } from '@material-ui/core/styles'
 
@@ -171,6 +171,14 @@ class App extends React.Component {
         ) : (
           false
         )}
+        <div className='footer'>
+          <p>
+            źródło:{' '}
+            <Link href='https://pl.wikipedia.org/wiki/Numerologia'>
+              https://pl.wikipedia.org/wiki/Numerologia
+            </Link>
+          </p>
+        </div>
       </ThemeProvider>
     )
   }
