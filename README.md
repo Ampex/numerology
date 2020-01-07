@@ -1,9 +1,11 @@
 Numerology app.
 
-# Live demo here: [DEMO](https://bkasperski.pl/numerology)
+# Live demo here: [DEMO](https://ampex.github.io/numerology/)
 
 ## Material UI for React
+
 ### Components:
+
 - Button
 - Grow
 - ValidatorForm
